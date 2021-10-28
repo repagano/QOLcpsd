@@ -1,0 +1,30 @@
+# SR785 Noise Measurement
+#Title: 2021-08-16.185040
+#Memo: 
+#Instrument ID: Stanford_Research_Systems,SR785,s/n77740,ver220
+#
+#---------- Measurement Parameters ----------
+#Measurement Group: FFT
+#Measurements: Coherence
+#View: Linear Magnitude
+#Unit:  
+#
+#---------- Input Parameters ----------
+#Input Source: Analog
+#Input Mode: Single ended, Single ended
+#Input Grounding: Float, Float
+#Input Coupling: AC, AC
+#Input Range: -16.0dBVpk, -30.0dBVpk
+#Auto Range: Off, Off
+#Auto Range Mode: Up Only, Normal
+#Anti-Aliasing Filter: On, On
+#
+#---------- Measurement Setup ----------
+#Frequency Span: 51200.000000
+#Frequency Resolution: 800
+#Number of Averages: 1000
+#Averaging Mode: RMS
+#Window function: BMH
+#
+#---------- Instrument Data -----------
+## Frequency(Hz) Disp1( ) 
